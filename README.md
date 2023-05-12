@@ -2,9 +2,11 @@
 You have to install [NodeJs]
 open the nodejs terminal cd (Folder path) and install all the required packages.
 
-    npm instal express
-         npm instal body-parser
-            npm instal cors
+     npm int
+         npm instal express
+             npm instal body-parser
+                npm instal cors
+                
 
 # Development
 1. Starting by setting up my environment by installing NodeJs, Express, body-parser our middleware to handle post and get requests and cors for cross origin allowance for the server-side code.
